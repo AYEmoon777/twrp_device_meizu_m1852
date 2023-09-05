@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=MTK RePack
+Exec=mate-terminal --tab -e "bash -c \\"~/Desktop/CarlivImageKitchen/repack_MTK_img %f\\""
+Icon=bash

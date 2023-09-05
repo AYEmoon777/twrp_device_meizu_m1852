@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Image Info
+Exec=mate-terminal -e "bash -c \\"~/Desktop/CarlivImageKitchen/image_info %f\\""
+Icon=bash
