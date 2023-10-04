@@ -54,7 +54,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
         export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 
 	# Screen settings
-	export OF_SCREEN_H=2200
+	export OF_SCREEN_H=2220
 	export OF_STATUS_H=100
 	export OF_STATUS_INDENT_LEFT=48
 	export OF_STATUS_INDENT_RIGHT=48
