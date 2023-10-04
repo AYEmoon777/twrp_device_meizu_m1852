@@ -5,6 +5,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/m1852.mk
+    $(LOCAL_DIR)/twrp_m1852.mk
 
 COMMON_LUNCH_CHOICES := twrp_m1852-eng
